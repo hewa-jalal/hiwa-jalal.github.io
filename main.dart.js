@@ -52069,7 +52069,7 @@ $1:function(a){return new R.kv(new O.d1("day_idle",!1,!1))},
 $S:312}
 F.QK.prototype={
 $2:function(a,b){var s=b.c?X.a2I(C.H):null
-return new S.lg(new X.r4(null),"Flutter Demo",s,!1,null)},
+return new S.lg(new X.r4(null),"Hiwa Jalal Portfolio",s,!1,null)},
 $C:"$2",
 $R:2,
 $S:313}
